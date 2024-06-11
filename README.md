@@ -15,7 +15,7 @@ API ini menggunakan Laravel untuk mengelola pencatatan keuangan, termasuk autent
 - DB_PASSWORD=
 
 ## instalation
-1. git clone https://github.com/mochananta/Keuangan_API.git
+1. git clone https://github.com/mochananta/Keuangan-API.git
 2. composer update
 3. ubah .env.example ke .env
 4. tambahkan nama database, port atau password database
